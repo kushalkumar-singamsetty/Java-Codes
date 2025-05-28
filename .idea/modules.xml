@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/allprgms/allprgms.iml" filepath="$PROJECT_DIR$/allprgms/allprgms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home/home.iml" filepath="$PROJECT_DIR$/home/home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaques/javaques.iml" filepath="$PROJECT_DIR$/javaques/javaques.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jspiders/jspiders.iml" filepath="$PROJECT_DIR$/jspiders/jspiders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops/oops.iml" filepath="$PROJECT_DIR$/oops/oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/package1/package1.iml" filepath="$PROJECT_DIR$/package1/package1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/packages.iml" filepath="$PROJECT_DIR$/packages/packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns/patterns.iml" filepath="$PROJECT_DIR$/patterns/patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pdfques&amp;ans/pdfques&amp;ans.iml" filepath="$PROJECT_DIR$/pdfques&amp;ans/pdfques&amp;ans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programs/programs.iml" filepath="$PROJECT_DIR$/programs/programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/returntype/returntype.iml" filepath="$PROJECT_DIR$/returntype/returntype.iml" />
+    </modules>
+  </component>
+</project>
